@@ -1,7 +1,8 @@
 # FetchiOSCodingChallenge
 Thank you for taking the time to review my submission for the Fetch iOS Coding Challenge. I had a lot of fun putting my best foot forward in this effort, and I hope you see some of my thought process reflected in the code. 
 </br>
-Throughout this challenge I tried to implement the thumbnails as UIImageViews in multiple ways. These ways included, ___. After multiple attempts and troubleshooting, I believe the machine I am working on may have something to do with the errors I'm receiving. 
+</br>
+Throughout this challenge, I tried to implement the thumbnails as UIImageViews in multiple ways. These ways included, ___. After multiple attempts and troubleshooting, I believe the machine I am working on may have something to do with the errors I'm receiving. 
 </br>
 
 The MacBook Air I'm currently using does not have the newest MacOS which led me to fall behind on XCode updates.

@@ -13,7 +13,7 @@ As shown below, the MacBook Air I'm using for this challenge does not have suppo
 
 ![Screen Shot 2023-03-01 at 9 22 00 PM](https://user-images.githubusercontent.com/114269636/222332108-867a7a84-9794-465e-b2eb-b63da6e6d34d.png)
 </br>
-Ideally, I would use the latest version of Xcode to complete this challenge. Using the latest version of Xcode would provide me more features and stability. For example, I was unable to use AsyncImage which is why my networking has 2 calls as opposed to 1.
+Ideally, I would use the latest version of Xcode to complete this challenge. Using the latest version of Xcode would provide more features and stability. For example, the latest version of Swift has a function AsynImage, if I had the latest version, I would have chosen this route to creating a unique row object. Instead I did create this unique row object, which may increase user latency but I believe it was the best approach given the situation.
 
 Here was my resulting error that led me to finish the project to the best of my abilities.
 </br>

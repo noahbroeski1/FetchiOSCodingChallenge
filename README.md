@@ -5,7 +5,7 @@ Thank you for taking the time to review my submission for the Fetch iOS Coding C
 Throughout this challenge, I tried to implement the thumbnails as UIImageViews in multiple ways. These ways included, ___. After multiple attempts and troubleshooting, I believe the machine I am working on may have something to do with the errors I'm receiving. 
 </br>
 
-The MacBook Air I'm currently using does not have the newest MacOS which led me to fall behind on XCode updates.
+As shown below, the MacBook Air I'm using for this challenge does not have support for the latest MacOS, which led me to fall behind on Xcode updates.
 </br>
 ![Screen Shot 2023-03-01 at 9 21 23 PM](https://user-images.githubusercontent.com/114269636/222332038-baad636a-02a4-402a-b312-a3193b62a40e.png)
 </br>
@@ -13,7 +13,7 @@ The MacBook Air I'm currently using does not have the newest MacOS which led me 
 
 ![Screen Shot 2023-03-01 at 9 22 00 PM](https://user-images.githubusercontent.com/114269636/222332108-867a7a84-9794-465e-b2eb-b63da6e6d34d.png)
 </br>
-Ideally I would be using the latest version of XCode because it would provide more features and stability, for example I was unable to use AsyncImage which is why my networking has 2 calls as opposed to 1.
+Ideally, I would use the latest version of Xcode to complete this challenge. Using the latest version of Xcode would provide me more features and stability. For example, I was unable to use AsyncImage which is why my networking has 2 calls as opposed to 1.
 
 Here was my resulting error that led me to finish the project to the best of my abilities.
 </br>

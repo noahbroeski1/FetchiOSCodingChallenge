@@ -19,4 +19,5 @@ As shown below, the MacBook Air I'm using for this challenge does not have suppo
 </br>
 Ideally, I would use the latest version of Xcode to complete this challenge. Using this version would provide more features and stability. For example, the latest version of Swift has a function called AsyncImage, which would be my ideal method of loading images. Instead, I created a unique row object, which may increase user latency but is an effective workaround given the lack of the AsyncImage function.
 </br>
+</br>
 Despite the issues I had with my machine and its lack of up to date software, I believe my solution is a great implementation of the required work presented by the challenge. I would love to have the opportunity to continue on in the hiring process with further conversation about my past work and what I can bring to Fetch. Again, I am so thankful for you taking the time to review my code. Have a great rest of your day.
